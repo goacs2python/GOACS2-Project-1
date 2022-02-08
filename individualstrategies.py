@@ -9,4 +9,5 @@
 
 # Individual Strategy for tournament yournameStrategy() 
 # e.g. adaLStrategy()
-# Strategy Description: 
+# Explanation of Strategy:
+# 
