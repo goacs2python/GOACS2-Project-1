@@ -1,11 +1,12 @@
-# Strategy 1
+# strategy1()
 
 
-# Strategy 2
+# strategy2()
 
 
-# Strategy 3
+# strategy3()
 
 
-# Individual Strategy for tournament
+# Individual Strategy for tournament yournameStrategy() 
+# e.g. adaLStrategy()
 # Strategy Description: 
