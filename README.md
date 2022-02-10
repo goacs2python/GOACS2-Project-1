@@ -24,14 +24,13 @@ Please complete the problems on the assignment page as follows.
 ---
 
 ### Tips
-- Start the problem set early!
-    - The earlier you start, the more time you have to get help if you run into any 
-    problems.
+- Get in touch with your group early!
+    - The earlier you start, the more time you have to figure out our schedules and find time to meet.
 - Test your code. 
     - Find good stopping points to test out bits of code and
     functions even when your program is only partially finished. 
-    - Try out different inputs and see if you expect the outputs that you get.
-- Ask for help on Twist. 
+    - Try out different inputs and see if you expect the outputs that you get. Create your own history lists for this!
+- Ask for help on Twist, or feel free to talk to your group members. 
     - Remember that we are traveling together on this 
     learning journey and you don't have to struggle alone!
     - It is way more important that you get your questions answered than it is

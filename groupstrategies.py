@@ -1,16 +1,16 @@
 # YOU ONLY HAVE TO SUBMIT FUNCTIONS FOR WHICH
 # YOU ARE THE DRIVER IN PAIR PROGRAMMING
 
-# teamNameStrategy1()
+# Your team's 1st strategy
 # Explanation of Strategy:
 # 
 
 
-# teamNameStrategy2()
+# Your team's 2nd strategy
 # Explanation of Strategy:
 # 
 
 
-# teamNameStrategy3()
+# Your team's 3rd strategy
 # Explanation of Strategy:
 # 
