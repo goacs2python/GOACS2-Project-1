@@ -3,7 +3,9 @@
 hist1 = []
 hist2 = [("split","steal")]
 hist3 = [("split","split"),("steal","split"),("split,steal"),("split,split"),("steal,split")]
-hist4 = [("split","steal"),("steal","steal"),("split","steal"),("steal","split"),("split","split"),("steal","split")]# strategy1()
+hist4 = [("split","steal"),("steal","steal"),("split","steal"),("steal","split"),("split","split"),("steal","split")]
+
+# strategy1()
 
 
 # strategy2()
